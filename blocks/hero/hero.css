@@ -14,6 +14,10 @@
   margin-left: auto;
   margin-right: auto;
   color: var(--background-color);
+  position: absolute;
+    left: 0;
+    bottom: 0;
+    
 }
 
 .hero picture {

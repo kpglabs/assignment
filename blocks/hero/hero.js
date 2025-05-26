@@ -1,5 +1,1 @@
-.hero h1 {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-}
+

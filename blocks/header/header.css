@@ -1,7 +1,6 @@
 /* header and nav layout */
 header .nav-wrapper {
-  background-color: var(--background-color);
-  width: 100%;
+  padding: 8px 16px !important;
   z-index: 2;
   position: fixed;
 }
@@ -138,8 +137,7 @@ header nav[aria-expanded='true'] .nav-hamburger-icon::after {
 /* brand */
 header .nav-brand {
   grid-area: brand;
-  flex-basis: 128px;
-  font-size: var(--heading-font-size-s);
+  font-size: var(--heading-font-size-xs);
   font-weight: 700;
   line-height: 1;
 }
@@ -266,3 +264,13 @@ header nav .nav-sections ul > li > ul > li {
 header nav .nav-tools {
   grid-area: tools;
 }
+
+
+header nav .w3-bar-heading{
+
+font-family: 
+    
+}
+
+
+

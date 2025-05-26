@@ -269,10 +269,8 @@ header nav .nav-tools {
 }
 
 
-header nav .w3-bar-heading{
-
-
-    
+header nav .w3-bar-menu .default-content-wrapper{
+float: right;    
 }
 
 

@@ -9,6 +9,8 @@
 
 .columns > div > div {
   order: 1;
+  align-self: start;
+  text-align: center;
 }
 
 .columns > div > .columns-img-col {
@@ -39,3 +41,14 @@ main > .section.columns-container{
 .w3content{
 padding-top: 24px;    
 } 
+
+.w3content  h1, h2{
+font-size: 36px;
+font-family: "Playfair Display";
+letter-spacing: 5px;
+font-weight: 400;
+}
+
+.w3content  h2{
+font-size: 18px !important;
+}

@@ -188,7 +188,7 @@ button {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-.w3form  button{
+.w3form button{
     color: #000 !important;
     background-color: #f1f1f1 !important;
     border: none;

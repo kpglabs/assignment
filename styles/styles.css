@@ -188,6 +188,14 @@ button {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+.w3form  button{
+    color: #000 !important;
+    background-color: #f1f1f1 !important;
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+}
 
 a.button:hover,
 a.button:focus,

@@ -69,6 +69,11 @@
   transition: border-color 0.2s;
 }
 
+.form input{
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
 .form textarea {
   resize: vertical;
 }
